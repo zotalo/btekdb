@@ -1,0 +1,82 @@
+/*.headertable {
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: Comic Sans MS;
+	background-color: #222B48;
+	
+	}
+.headertable td {
+	width: 250px;
+	text-align: center;
+	}
+.headertable tr {
+	text-align: center;
+	border-botom: solid;
+	width: 200px;
+	border:solid;
+	border-color:black;
+	
+	}
+.dbtables  td{
+	text-align: center;
+	margin:0;
+	}
+
+.dbtables tr{
+	border-collapse:collapse;
+}
+
+.dbtables {
+    background-color: aliceblue;
+    width: 100%;
+    margin-bottom: 15px;
+    border-collapse: collapse;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.dbtablestherapy {
+    background-color: aliceblue;
+    width: 100%;
+    margin-bottom: 15px;
+    border-collapse: collapse;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+		color: black;
+}
+
+
+.customer_table {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap;
+	}
+	
+.dbtables a {
+	color: rgb(128, 0, 128);
+    text-decoration: none;
+	display: block;
+	}
+
+.dbtablestherapy a {
+	color: rgb(128, 0, 128);
+    text-decoration: underline;
+	}
+
+.dbtablestherapy tr:hover a{
+	
+}
+
+tr:hover a {
+	background-color: #1B3C41;
+	color: #FFFFFF;
+}
+
+
+#pinakas {
+    margin-bottom: 0px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}*/

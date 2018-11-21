@@ -1,0 +1,75 @@
+.Title {
+    background-color: grey;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.PostidInfo {
+    color: white;
+}
+ul.PostInfo {
+    width: 80%;
+    background-color: #4B4652;
+    text-align: justify;
+    margin: 5px;
+    padding: 5px;
+	border-radius: 10px;
+}
+li.ListInfo {
+    list-style-type: none;
+    list-style-position: inside;
+}
+
+div#therapy-form {
+    margin: 15px 0 15px 0;
+}
+.DateInfo {
+    background-color: aliceblue;
+    border-bottom: solid;
+    width: 20%;
+    font-weight: bold;
+}
+
+.TherapyInfo {
+   background-color: rgb(120, 92, 130);
+   # padding: 25px;
+    margin: 10px;
+}
+.Therapy {
+    width: 30%;
+    background-color: #0D6D6D;
+    font-weight: bolder;
+}
+
+.Info_Title {
+	background-color: #000000;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+	border-top-right-radius: 6px;
+	border-top-left-radius: 6px;
+}
+
+.BowInfo {
+    font-size: larger;
+    font-family: fantasy;
+    text-decoration: underline;
+    width: 100%;
+    text-align: center;
+}
+
+.Info {
+    /* margin-right: 60px; */
+    /* margin-left: 60px; */
+    margin-bottom: 20px;
+    text-align: justify;
+    font-family: sans-serif;
+    width: 820px;
+    padding: 40px;
+    background-color: beige;
+}
+.posts {
+    background: slategrey;
+}
